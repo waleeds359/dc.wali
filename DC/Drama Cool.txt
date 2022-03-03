@@ -1,0 +1,59 @@
+{
+             "Drama Cool": [
+{
+    "EventImage" : "https://assets.wali.tk/Events/SG.jpg",
+    "EventName" : "Squid Game",
+    "Url" : "https://dc.wali.tk/SG.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/CLOY.jpg",
+    "EventName" : "Crash Landing on You",
+    "Url" : "https://dc.wali.tk/CLOY.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/DOTS.jpg",
+    "EventName" : "Descendants of the Sun",
+    "Url" : "https://dc.wali.tk/DOTS.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/Goblin.jpg",
+    "EventName" : "Goblin: The Lonely and Great God",
+    "Url" : "https://dc.wali.tk/Goblin.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/MQ.jpg",
+    "EventName" : "Mr. Queen",
+    "Url" : "https://dc.wali.tk/MQ.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/TH.jpg",
+    "EventName" : "The Heirs",
+    "Url" : "https://dc.wali.tk/TH.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/TKEM.jpg",
+    "EventName" : "The King: Eternal Monarch",
+    "Url" : "https://dc.wali.tk/TKEM.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/LOTBS.jpg",
+    "EventName" : "Legend of the Blue Sea",
+    "Url" : "https://dc.wali.tk/LOTBS.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/IOTBNO.jpg",
+    "EventName" : "It's Okay to Not Be Okay",
+    "Url" : "https://dc.wali.tk/IOTBNO.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/MN.jpg",
+    "EventName" : "My Name",
+    "Url" : "https://dc.wali.tk/MN.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/AOUAD.jpg",
+    "EventName" : "All of Us Are Dead",
+    "Url" : "https://dc.wali.tk/AOUAD.json"
+  }
+]
+}
