@@ -1,0 +1,75 @@
+{
+   
+  "Squid Game" :[ 
+     {
+   "ChannelName" : "01-Squid Game S01 E01",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/1.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/1.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+       {
+   "ChannelName" : "02-Squid Game S01 E02",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/2.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/2.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "03-Squid Game S01 E03",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/3.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/3.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "04-Squid Game S01 E04",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/4.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/4.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "05-Squid Game S01 E05",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/5.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/5.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "06-Squid Game S01 E06",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/6.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/6.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "07-Squid Game S01 E07",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/7.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/7.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "08-Squid Game S01 E08",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/8.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/8.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "09-Squid Game S01 E09",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/9.html",
+   "EventName" : "Squid Games",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/9.jpg",
+   "Toast" : "Please Unmute the Channel"
+ },
+      {
+   "ChannelName" : "10-Squid Game S01 E10",
+   "ChannelUrl" : "https://iframe.wali.tk/DC/sg/10.html",
+   "EventName" : "Squid Game",
+   "ImageUrl" : "http://assets.wali.tk/Events/sg/10.jpg",
+   "Toast" : "Please Unmute the Channel"
+ }
+]
+}
