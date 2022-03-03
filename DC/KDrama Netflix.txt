@@ -1,0 +1,19 @@
+{
+             "KDrama Netflix": [
+{
+    "EventImage" : "https://assets.wali.tk/Events/bbl.jpg",
+    "EventName" : "KDrama",
+    "Url" : "https://dc.wali.tk/KDrama.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/psl.jpg",
+    "EventName" : "Netflix",
+    "Url" : "https://dc.wali.tk/Netflix.json"
+  },
+               {
+    "EventImage" : "https://assets.wali.tk/Events/u19.jpg",
+    "EventName" : "KDrama Netflix",
+    "Url" : "https://dc.wali.tk/KDrama Netflix.json"
+  }
+]
+}
